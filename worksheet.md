@@ -2,7 +2,7 @@ After reading README.md complete this worksheet by editing this file and marking
 
 1) What does a diamond mean in a flowchart? *a) a decision point b) a step in a process c) it indicates what should happen afterward in the process
 
-2) What does an arrow mean in a flowchart? a) a decision point b) a step in a process *c) it indicates what should happen next in the process
+2) What does an arrow mean in a flowchart? a) a decision point b) a step in a process *c) it indicates what should happen next in the process This computer is slow
 
 3) In pair programming, who is on the hook to suggest what to do next? a) the person at the keyboard *b) the person not at the keyboard
 
